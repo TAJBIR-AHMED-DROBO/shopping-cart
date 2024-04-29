@@ -1,0 +1,49 @@
+nav {
+    background-color: #000000cf;
+    color: white;
+}
+
+
+.navbar-brand{
+    color: white;
+}
+
+.navbar-brand:hover{
+    color: white;
+}
+
+
+form input{
+    border: none;
+    outline: none;
+    height: 2.3em;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.dropdown{
+    border: 1px solid green;
+    padding: 8px;
+    border-radius: 5px;
+    background: green;
+}
+
+
+
+.dropdown-menu{
+    margin-left: -361px;
+    height: auto;
+    width: min(406px, 100vw);
+    padding: 3px;
+}
+
+.dropdown img{
+    max-width: 50px;
+    border-radius: 20px;
+}
+
+.brokoly{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
